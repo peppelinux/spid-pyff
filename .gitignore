@@ -1,0 +1,8 @@
+certificates/key.pem
+certificates/cert.pem
+env/
+*.log
+*.json
+md-sp/*
+md-idp/*
+md/*
